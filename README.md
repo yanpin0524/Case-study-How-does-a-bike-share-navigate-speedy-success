@@ -119,8 +119,20 @@ These observations aim to gain a comprehensive understanding of the distinctions
 
 
 ---
-# 4. Conclusion and Recommendation
+# 4. Recommendation and Next Step
+Based on findings, here are some insights and recommendations:
 
+1. **Peak Period Considerations:**
+   - Given that annual members exhibit higher usage on Tuesdays, Wednesdays, and Thursdays, consider increasing bike availability on these days to meet their demand.
+   - The significant increase in casual ridership on Saturdays, likely driven by leisure activities, suggests an opportunity to offer special events or promotions on this day to attract more casual riders.
+
+2. **Distribution of Peak Periods Throughout the Day:**
+   - Understanding that annual members predominantly use bikes during commute hours, consider enhancing services during these periods, such as increasing the number of stations or bikes available.
+   - With casual riders showing a concentration in afternoon usage, align marketing efforts during this time to attract more casual riders seeking leisurely bike rides.
+
+3. **Usage Patterns Between Members and Non-Members:**
+   - Recognizing that casual riders tend to have longer average ride durations, it implies a preference for extended bike riding experiences. Consider providing more diverse route options and enhancing comfort features to cater to their needs.
+   - For annual members, who likely prioritize shorter commuting needs, explore options to offer quicker, convenient ride choices to accommodate their brief commuting requirements.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NzY1MzldfQ==
+eyJoaXN0b3J5IjpbLTEyNzMwMjEwMDIsNzM4NzY1MzldfQ==
 -->
