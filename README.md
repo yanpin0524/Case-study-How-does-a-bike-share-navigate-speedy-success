@@ -134,5 +134,5 @@ Based on findings, here are some insights and recommendations:
    - Recognizing that casual riders tend to have longer average ride durations, it implies a preference for extended bike riding experiences. Consider providing more diverse route options and enhancing comfort features to cater to their needs.
    - For annual members, who likely prioritize shorter commuting needs, explore options to offer quicker, convenient ride choices to accommodate their brief commuting requirements.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzMwMjEwMDIsNzM4NzY1MzldfQ==
+eyJoaXN0b3J5IjpbLTEyNzMwMjEwMDJdfQ==
 -->
